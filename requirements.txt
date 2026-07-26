@@ -1,9 +1,8 @@
 Flask==3.0.3
 gunicorn==22.0.0
 tensorflow==2.16.1
-numpy==1.26.4
 opencv-python-headless==4.10.0.84
+numpy==1.26.4
 Pillow==10.4.0
-matplotlib==3.8.4
 scikit-learn==1.4.2
-pandas==2.2.2
+matplotlib==3.8.4git 
